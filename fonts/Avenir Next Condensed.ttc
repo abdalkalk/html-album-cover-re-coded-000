@@ -4,18 +4,20 @@
 	<title>PHARRELL WILLIAMS
 </title>
 </head>
+<div style="background: #FFFF00">
+
 <body>
-<div style="background: :#FFFF00">
   <h5>PHARRELL WILLIAMS</h5>
 </br>
 <h1>HAPPY</h1>
 </br>
 <h5>| FROM DESPICABLE ME 2 |</h5>
+</body>
 </div>
 </br>
 <img src="" alt="" >
 </img>
-<div style="background: :#FFFF00">
+<div style="background: #FFFF00">
   <h5>| &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; |</h5>
 </br>
 <h1>HAPPY</h1>
@@ -31,3 +33,4 @@
 </br>
 <img src="" alt="">
 </img>
+</div>
